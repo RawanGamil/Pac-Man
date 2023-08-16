@@ -6,3 +6,6 @@ We, a college group, united our skills to create a Pacman game from scratch usin
 
 ### Contributers:
 [@Zoumamido22 ](https://github.com/zoumamido)
+
+[@HHHagag ](https://github.com/HHHagag)
+
